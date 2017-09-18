@@ -1,4 +1,3 @@
-package Lab13_GraphTraversal;
 
 import java.util.Scanner;
 import java.util.Vector;
